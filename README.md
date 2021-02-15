@@ -1,5 +1,5 @@
 # Git Practice
-A simple project to practice a few git/github workflows.  Replace the contents of this file with the contents indicated in the [instructions](./instructions.md).
+A simple project to practice a few git/github workflows.  
 [Where Do Vaccine Doses Go, and Who Gets Them? The Algorithms Decide](https://www.nytimes.com/2021/02/07/technology/vaccine-algorithms.html)
 
 ### What I find interesting 
