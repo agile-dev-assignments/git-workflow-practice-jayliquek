@@ -12,3 +12,5 @@ allowed to make significant changes without notifying local leaders. The
 algorithm is a product of whichever group created it, so whether that was
 intentional is concerning, especially for something as critical as vaccine
 distribution. - Andrew Huang 
+
+I found this article really cool because it illustrated the idea of how algorithm plays an important role in our daily life and curcial issuses like healthcare. So algorithm is not just about getting profits for companies or solving a mathematical problem related to huge data sets, its power is actually tied to every human being, to the great extent of saving life. -Ziyi Wang
